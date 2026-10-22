@@ -87,8 +87,8 @@ My focus is on building functional applications, understanding backend architect
 ##  GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Godson-T&show_icons=true&rank_icon=github&theme=github_dark&hide_border=false" alt="GitHub Statistics" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godson-T&layout=compact&theme=github_dark&hide_border=false" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Godson-T&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true" alt="GitHub Statistics" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godson-T&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" width="48%" />
 </p>
 
 
