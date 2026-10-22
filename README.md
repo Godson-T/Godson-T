@@ -1,125 +1,104 @@
 
 <div align="center">
 
-# Hey, I'm Godson Thomas 👋
+# Godson Thomas
 
-### AI & ML Engineering Student | Backend Developer
+**AI & ML Engineering Student | Backend Development**
 
-Building practical applications with Python, APIs, and AI.
+Building practical software with Python, REST APIs, and database technologies.
 
-<a href="https://github.com/Godson-T">
-  <img src="https://komarev.com/ghpvc/?username=Godson-T&style=for-the-badge&color=7C3AED" alt="Profile Views"/>
-</a>
-
-<a href="https://github.com/Godson-T?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Explore-7C3AED?style=for-the-badge&logo=github" alt="Projects"/>
-</a>
-
-<a href="https://www.linkedin.com/in/godsonthomas-/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Godson--T-181717?style=flat&logo=github)](https://github.com/Godson-T)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/godsonthomas-/)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
-- 🎓 Third-year Artificial Intelligence & Machine Learning engineering student.
-- 🐍 Building backend applications using Python and FastAPI.
-- 🔌 Interested in REST APIs, authentication, databases, and backend architecture.
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 🧠 Practicing Data Structures & Algorithms and problem-solving.
-- 🏆 First-place winner at the Chronoverse'26 24-hour hackathon.
-- 🚀 Focused on building real projects and becoming a better engineer.
+I'm a third-year Artificial Intelligence and Machine Learning engineering student interested in backend engineering, software development, and applied AI.
+
+My focus is on building functional applications, understanding backend architecture, and strengthening my software engineering fundamentals through hands-on projects.
+
+- **Backend:** Python, FastAPI, Flask, Django, REST APIs
+- **Data:** SQL, SQLite, SQLAlchemy, relational database design
+- **Security:** JWT authentication, password hashing, OTP verification
+- **Core CS:** Data Structures and Algorithms, OOP, problem-solving
+- **Currently developing:** PostgreSQL, Docker, and backend engineering skills
+
+## Technical Skills
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Frameworks and Libraries**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat)
+
+**Databases and Tools**
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack
+## Selected Projects
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Languages"/>
-</p>
-
-### Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,django" alt="Backend Frameworks"/>
-</p>
-
-### Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite,postgres,git,github,docker,vscode" alt="Databases and Tools"/>
-</p>
-
-### Currently Strengthening
-
-`FastAPI` · `SQL` · `PostgreSQL` · `Docker` · `Backend Development` · `Machine Learning`
-
----
-
-
-## 🚀 Featured Projects
-
-### 1. Task Manager API
+### Task Manager API
 **Python · FastAPI · SQLAlchemy · SQLite · Pydantic · JWT**
 
-- Built a REST API with complete CRUD operations.
-- Used SQLAlchemy for database operations and Pydantic for validation.
+- Implemented REST endpoints for creating, retrieving, updating, and deleting tasks.
+- Used SQLAlchemy for database persistence and Pydantic for request validation.
 - Implemented JWT-based authentication and password hashing.
-- Organized routes, models, schemas, and authentication into separate modules.
+- Structured the application into separate modules for routes, models, schemas, database configuration, and authentication.
 
-### 2. Flask Student Portal
+### Flask Student Portal
 **Python · Flask · SQLAlchemy · SQLite · SMTP**
 
-- Developed a backend-driven student portal.
-- Implemented authentication and email OTP verification.
-- Used multithreading for OTP delivery.
-- Deployed the application for real-world testing.
+- Developed a backend-driven student portal with database-backed student data and authentication.
+- Implemented email-based OTP verification.
+- Used multithreading to support asynchronous OTP delivery.
+- Deployed the application for testing outside the local development environment.
 
-🔗 [Explore my repositories](https://github.com/Godson-T?tab=repositories)
-
----
-
-## 🏆 Achievements
-
-- 🥇 **1st Place — Chronoverse'26 Hackathon:** Co-developed SkillMap AI, a career-planning prototype, with a three-member team in 24 hours.
-- 📜 **Patent Co-Inventor:** "IoT Based Smart Borewell Rescue Robot" — Indian Patent Application No. 202541073258 A.
-- ☁️ **Oracle Cloud Infrastructure 2025 Foundations Associate** — Oracle.
-- 🤖 **Responsible & Safe AI Systems** — NPTEL.
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Godson-T&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godson-T&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Godson-T&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
+For more projects, explore my [public repositories](https://github.com/Godson-T?tab=repositories).
 
 ---
 
-## 🤝 Connect With Me
+## Achievements
+
+- **1st Place — Chronoverse'26 Hackathon:** Collaborated in a three-member team to develop SkillMap AI, a career-planning prototype, during a 24-hour hackathon.
+- **Patent Co-Inventor:** "IoT Based Smart Borewell Rescue Robot" — Indian Patent Application No. 202541073258 A.
+
+## Certifications
+
+- Oracle Cloud Infrastructure 2025 Foundations Associate — Oracle.
+- Responsible & Safe AI Systems — NPTEL.
+
+## Current Focus
+
+- Building reliable and maintainable backend applications.
+- Improving API design, authentication, and database skills.
+- Practicing Data Structures and Algorithms.
+- Developing stronger foundations in software engineering and applied AI.
+
+## Connect
+
+- **GitHub:** [@Godson-T](https://github.com/Godson-T)
+- **LinkedIn:** [Godson Thomas](https://www.linkedin.com/in/godsonthomas-/)
+- **Email:** [godsonthomas2006@gmail.com](mailto:godsonthomas2006@gmail.com)
+
+---
 
 <div align="center">
 
-<a href="https://github.com/Godson-T">
-  <img src="https://img.shields.io/badge/GitHub-Godson--T-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/godsonthomas-/">
-  <img src="https://img.shields.io/badge/LinkedIn-Godson%20Thomas-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-
-</div>
-
-<div align="center">
-
-### 💡 Build. Break. Debug. Learn. Repeat.
-
-*Learning by building, one project at a time.*
+*Build with purpose. Learn by doing. Improve continuously.*
 
 </div>
