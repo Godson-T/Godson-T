@@ -111,7 +111,6 @@ My focus is on building functional applications, understanding backend architect
 
 - **GitHub:** [@Godson-T](https://github.com/Godson-T)
 - **LinkedIn:** [Godson Thomas](https://www.linkedin.com/in/godsonthomas-/)
-- **Email:** [godsonthomas2006@gmail.com](mailto:godsonthomas2006@gmail.com)
 
 ---
 
