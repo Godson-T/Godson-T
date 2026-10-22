@@ -85,7 +85,7 @@ My focus is on building functional applications, understanding backend architect
 
 ## GitHub Activity
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Godson-T&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 </div>
 
@@ -93,7 +93,7 @@ My focus is on building functional applications, understanding backend architect
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godson-T&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </div>
 
----
+
 
 ## Achievements
 
