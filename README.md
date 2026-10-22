@@ -48,8 +48,6 @@ My focus is on building functional applications, understanding backend architect
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
----
-
 
 ## Featured Projects
 
@@ -93,14 +91,6 @@ My focus is on building functional applications, understanding backend architect
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godson-T&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Godson-T&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Godson-T&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity" width="100%" />
 </div>
 ---
 
