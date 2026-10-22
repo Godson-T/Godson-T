@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./github-header.png" alt="Godson Thomas — AI and ML Engineering Student, Backend Developer" width="100%" />
+  <img src="" alt="Godson Thomas — AI and ML Engineering Student, Backend Developer" width="100%" />
 </p>
 
 <p align="center">
