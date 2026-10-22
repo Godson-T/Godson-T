@@ -50,27 +50,59 @@ My focus is on building functional applications, understanding backend architect
 
 ---
 
-## Selected Projects
 
-### Task Manager API
+## Featured Projects
+
+### [Task Manager API](https://github.com/Godson-T/Task-Manager-fastapi)
 **Python · FastAPI · SQLAlchemy · SQLite · Pydantic · JWT**
 
-- Implemented REST endpoints for creating, retrieving, updating, and deleting tasks.
-- Used SQLAlchemy for database persistence and Pydantic for request validation.
-- Implemented JWT-based authentication and password hashing.
-- Structured the application into separate modules for routes, models, schemas, database configuration, and authentication.
+- Built REST endpoints for creating, retrieving, updating, and deleting tasks.
+- Implemented user registration, login, password hashing, and JWT authentication.
+- Used SQLAlchemy for database operations and Pydantic for request validation.
+- Organized routes, models, schemas, database configuration, and authentication into separate modules.
 
-### Flask Student Portal
-**Python · Flask · SQLAlchemy · SQLite · SMTP**
+[Repository](https://github.com/Godson-T/Task-Manager-fastapi) · [Live Demo](https://task-manager-fastapi-g3y3.onrender.com) · [API Documentation](https://task-manager-fastapi-g3y3.onrender.com/docs)
 
-- Developed a backend-driven student portal with database-backed student data and authentication.
-- Implemented email-based OTP verification.
-- Used multithreading to support asynchronous OTP delivery.
-- Deployed the application for testing outside the local development environment.
+### [Student Portal](https://github.com/Godson-T/Student_Portal)
+**Python · Flask · SQLite · Bootstrap**
 
-For more projects, explore my [public repositories](https://github.com/Godson-T?tab=repositories).
+- Developed a web application for managing student records.
+- Used SQLite for data persistence.
+- Built the interface with Bootstrap and custom dark-themed CSS.
+
+[View Repository](https://github.com/Godson-T/Student_Portal)
+
+### [Advanced Calculator](https://github.com/Godson-T/Advance-Calculator)
+**Python · Algorithms · Mathematical Logic**
+
+- Implemented arithmetic and advanced mathematical operations.
+- Supports roots, factorials, powers, logarithms, sine, and interest calculations.
+- Explored custom calculation logic, including Newton's method for square roots.
+
+[View Repository](https://github.com/Godson-T/Advance-Calculator)
+
+[**Explore all repositories →**](https://github.com/Godson-T?tab=repositories)
 
 ---
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Godson-T&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godson-T&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Godson-T&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Godson-T&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity" width="100%" />
+</div>
+
 
 ## Achievements
 
