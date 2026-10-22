@@ -1,105 +1,95 @@
 
-<p align="center">
-  <img src="" alt="Godson Thomas — AI and ML Engineering Student, Backend Developer" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Godson-T">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/godsonthomas-/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:godsonthomas2006@gmail.com">Email</a>
-</p>
+# Godson Thomas
 
-# About Me
+**AI & ML Engineering Student | Backend Development**
 
-I'm a third-year Artificial Intelligence and Machine Learning engineering student interested in backend development, software engineering, and applied AI. I learn by building practical applications, understanding how their components fit together, and improving them through iteration.
+Building practical software with Python, REST APIs, and database technologies.
 
-- Building Python applications and REST APIs.
-- Working with authentication, request validation, and relational databases.
-- Practicing Data Structures and Algorithms and core computer science concepts.
-- Currently strengthening my PostgreSQL and Docker skills.
-- Interested in Software Engineering and Backend Engineering internship opportunities.
+[![GitHub](https://img.shields.io/badge/GitHub-Godson--T-181717?style=flat&logo=github)](https://github.com/Godson-T)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/godsonthomas-/)
+
+</div>
+
+---
+
+## About
+
+I'm a third-year Artificial Intelligence and Machine Learning engineering student interested in backend engineering, software development, and applied AI.
+
+My focus is on building functional applications, understanding backend architecture, and strengthening my software engineering fundamentals through hands-on projects.
+
+- **Backend:** Python, FastAPI, Flask, Django, REST APIs
+- **Data:** SQL, SQLite, SQLAlchemy, relational database design
+- **Security:** JWT authentication, password hashing, OTP verification
+- **Core CS:** Data Structures and Algorithms, OOP, problem-solving
+- **Currently developing:** PostgreSQL, Docker, and backend engineering skills
 
 ## Technical Skills
 
-**Languages:** Python, JavaScript, SQL, HTML, CSS  
-**Backend and APIs:** FastAPI, Flask, Django, REST APIs, CRUD, SQLAlchemy, Pydantic  
-**Authentication:** JWT, password hashing, OTP verification, SMTP  
-**Databases:** SQLite, relational database design  
-**Frontend:** Bootstrap, HTML, CSS  
-**Tools and deployment:** Git, GitHub, Render  
-**Currently learning:** PostgreSQL, Docker
+**Languages**
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-## Featured Projects
+**Frameworks and Libraries**
 
-### 1. [Task Manager API](https://github.com/Godson-T/Task-Manager-fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat)
 
+**Databases and Tools**
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## Selected Projects
+
+### Task Manager API
 **Python · FastAPI · SQLAlchemy · SQLite · Pydantic · JWT**
 
-A task management application built to practise API design, persistence, validation, and authentication.
+- Implemented REST endpoints for creating, retrieving, updating, and deleting tasks.
+- Used SQLAlchemy for database persistence and Pydantic for request validation.
+- Implemented JWT-based authentication and password hashing.
+- Structured the application into separate modules for routes, models, schemas, database configuration, and authentication.
 
-- Implemented create, read, update, and delete (CRUD) operations for tasks.
-- Added user registration and login with hashed password storage and JWT access tokens.
-- Used SQLAlchemy for ORM-based database access and Pydantic for request validation.
-- Organized the application into separate modules for routes, models, schemas, database setup, and authentication.
-- Included protected task endpoints and a template-based dashboard.
+### Flask Student Portal
+**Python · Flask · SQLAlchemy · SQLite · SMTP**
 
-[View repository and setup instructions](https://github.com/Godson-T/Task-Manager-fastapi) · [API documentation route](https://github.com/Godson-T/Task-Manager-fastapi#api-endpoints)
+- Developed a backend-driven student portal with database-backed student data and authentication.
+- Implemented email-based OTP verification.
+- Used multithreading to support asynchronous OTP delivery.
+- Deployed the application for testing outside the local development environment.
 
-### 2. [Student Portal](https://github.com/Godson-T/Student_Portal)
+For more projects, explore my [public repositories](https://github.com/Godson-T?tab=repositories).
 
-**Python · Flask · SQLAlchemy · SQLite · Bootstrap · SMTP**
+---
 
-A student-record application for creating and managing student details through a web interface.
+## Achievements
 
-- Built student record workflows for details such as name, email, course, and year.
-- Used SQLite and SQLAlchemy for database persistence.
-- Styled the interface with Bootstrap and custom CSS.
-- Project work also included authentication, email OTP verification, and multithreaded OTP delivery using SMTP.
+- **1st Place — Chronoverse'26 Hackathon:** Collaborated in a three-member team to develop SkillMap AI, a career-planning prototype, during a 24-hour hackathon.
+- **Patent Co-Inventor:** "IoT Based Smart Borewell Rescue Robot" — Indian Patent Application No. 202541073258 A.
 
-[View repository](https://github.com/Godson-T/Student_Portal)
+## Certifications
 
-### 3. [Advanced Calculator](https://github.com/Godson-T/Advance-Calculator)
+- Oracle Cloud Infrastructure 2025 Foundations Associate — Oracle.
+- Responsible & Safe AI Systems — NPTEL.
 
-**Python · Algorithms · Mathematical Computation**
+## Current Focus
 
-A command-line calculator focused on implementing mathematical operations and calculation logic from scratch.
+- Building reliable and maintainable backend applications.
+- Improving API design, authentication, and database skills.
+- Practicing Data Structures and Algorithms.
+- Developing stronger foundations in software engineering and applied AI.
 
-- Supports arithmetic, powers, factorials, square roots, nth roots, logarithms, and sine calculations.
-- Includes simple and compound interest calculations.
-- Uses Newton's method for square-root calculations and handles very large integers.
-- Designed to explore mathematical reasoning and algorithm implementation without relying on built-in math functions for its core calculations.
-
-[View repository and usage instructions](https://github.com/Godson-T/Advance-Calculator)
-
-[Explore all public repositories →](https://github.com/Godson-T?tab=repositories)
-
-## GitHub Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Godson-T&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics for Godson-T" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godson-T&layout=compact&hide_border=true&theme=github_dark" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Godson-T&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
-</p>
-
-
-
-## Let's Connect
+## Connect
 
 - **GitHub:** [@Godson-T](https://github.com/Godson-T)
 - **LinkedIn:** [Godson Thomas](https://www.linkedin.com/in/godsonthomas-/)
@@ -107,6 +97,8 @@ A command-line calculator focused on implementing mathematical operations and ca
 
 ---
 
-<p align="center">
-  <em>Build with purpose. Learn by doing. Improve continuously.</em>
-</p>
+<div align="center">
+
+*Build with purpose. Learn by doing. Improve continuously.*
+
+</div>
