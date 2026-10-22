@@ -89,7 +89,7 @@ My focus is on building functional applications, understanding backend architect
   <img src="https://github-readme-stats.vercel.app/api?username=Godson-T&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 </div>
 
-<div width="50% align="center">
+<div width="40% align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godson-T&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </div>
 
