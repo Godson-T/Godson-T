@@ -77,10 +77,6 @@ For more projects, explore my [public repositories](https://github.com/Godson-T?
 - **1st Place — Chronoverse'26 Hackathon:** Collaborated in a three-member team to develop SkillMap AI, a career-planning prototype, during a 24-hour hackathon.
 - **Patent Co-Inventor:** "IoT Based Smart Borewell Rescue Robot" — Indian Patent Application No. 202541073258 A.
 
-## Certifications
-
-- Oracle Cloud Infrastructure 2025 Foundations Associate — Oracle.
-- Responsible & Safe AI Systems — NPTEL.
 
 ## Current Focus
 
