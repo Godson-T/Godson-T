@@ -97,22 +97,7 @@ A command-line calculator focused on implementing mathematical operations and ca
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Godson-T&theme=github-compact&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
 </p>
 
-## Achievements
 
-- **1st Place — Chronoverse'26 24-Hour Hackathon:** Worked with a three-member team to build SkillMap AI, a career-planning prototype focused on skill analysis, skill-gap identification, and personalized roadmap generation. The prototype is not currently linked as a public repository.
-- **Patent Co-Inventor:** *IoT Based Smart Borewell Rescue Robot* — Indian Patent Application No. 202541073258 A.
-
-## Certifications
-
-- Oracle Cloud Infrastructure 2025 Foundations Associate — Oracle.
-- Responsible & Safe AI Systems — NPTEL.
-
-## Experience and Community
-
-**Internal Member — IUCEE KARE Student Chapter**  
-*August 2025 – July 2026*
-
-Contributed to student activities around AI, coding, innovation, technical workshops, and knowledge sharing.
 
 ## Let's Connect
 
